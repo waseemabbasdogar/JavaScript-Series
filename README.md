@@ -1,2 +1,2 @@
 # JavaScript-Series
-starting Learning Javascript and push my code on daily basis.
+starting Learning Javascript and push my code on daily basis. and noting special
